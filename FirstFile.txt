@@ -7,3 +7,4 @@ skjdfhkdhgkd
 UNSTAGED
 
 Testing
+Trying a git checkout pn specific commit
