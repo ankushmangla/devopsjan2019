@@ -5,3 +5,6 @@ skjdfhkdhgkd
 
 
 UNSTAGED
+
+Trying a git checkout pn specific commit
+
